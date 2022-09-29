@@ -1,4 +1,2 @@
-# UGR-0359-12
-# Personal Portfolio and profile page
-Name: Joshua Tesfaye
-ID: UGR/0359/12
+# Personal-Portfolio-1
+This is my other portfolio I am gonna host
